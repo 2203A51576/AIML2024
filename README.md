@@ -9,3 +9,5 @@
 #assignment5.2:https://github.com/2203A51576/AIML2024/blob/main/ASSIGNMENT5_2(2203A51576).ipynb
 
 #assignment6:https://github.com/2203A51576/AIML2024/blob/main/2203A51576_ASS_6%20(1).ipynb
+
+#assignment7:https://github.com/2203A51576/AIML2024/blob/main/2203A51576_ass_7.ipynb
