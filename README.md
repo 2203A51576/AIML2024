@@ -11,3 +11,6 @@
 #assignment6:https://github.com/2203A51576/AIML2024/blob/main/2203A51576_ASS_6%20(1).ipynb
 
 #assignment7:https://github.com/2203A51576/AIML2024/blob/main/2203A51576_ass_7.ipynb
+
+
+#AI&ML PROJECT:https://github.com/2203A51576/AIML2024/blob/main/AI%26ML.ipynb
